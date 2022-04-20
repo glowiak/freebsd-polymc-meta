@@ -75,6 +75,11 @@
                         "sha1": "3f11873dc8e84c854ec7c5a8fd2e869f8aaef764",
                         "size": 609967,
                         "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-windows.jar"
+                    },
+                    "natives-freebsd": {
+                        "sha1": "7de0f39b638ddd257bd3d1c293acdf47236d25a7",
+                        "size": 228375,
+                        "url": "https://codeberg.org/attachments/6d68b275-f11e-4312-be30-d7afe69e22c5"
                     }
                 }
             },
@@ -87,7 +92,8 @@
             "natives": {
                 "linux": "natives-linux",
                 "osx": "natives-osx",
-                "windows": "natives-windows"
+                "windows": "natives-windows",
+                "freebsd": "natives-freebsd"
             }
         },
         {
