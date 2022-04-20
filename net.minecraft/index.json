@@ -5,6 +5,34 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2022-04-20",
+            "requires": [
+                {
+                    "equals": "3.2.1",
+                    "suggests": "3.2.1",
+                    "uid": "org.lwjgl3"
+                }
+            ]
+            "sha256": "2ec6b485a4d16dd288cb7cc156c002f5c5f4b65e679fd464092446ffdf851c12",
+            "type": "snapshot",
+            "version": "22w16b"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2022-04-20",
+            "requires": [
+                {
+                    "equals": "3.2.1",
+                    "suggests": "3.2.1",
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "sha256": "09a90d710ab548e201ce42720b15d164802d3067dd27071460ed8363da311e6a",
+            "type": "snapshot",
+            "version": "22w16a"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2022-04-13T15:41:17+00:00",
             "requires": [
                 {
