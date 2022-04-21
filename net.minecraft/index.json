@@ -12,7 +12,7 @@
                     "suggests": "3.2.1",
                     "uid": "org.lwjgl3"
                 }
-            ]
+            ],
             "sha256": "2ec6b485a4d16dd288cb7cc156c002f5c5f4b65e679fd464092446ffdf851c12",
             "type": "snapshot",
             "version": "22w16b"
